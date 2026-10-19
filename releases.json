@@ -4,6 +4,13 @@
   "releases": [
     {
       "kind": "characters",
+      "version": "20261019-v1",
+      "repository": "p10q/cairn-friend-releases",
+      "tag": "friend-characters-20261019-v1",
+      "manifest": "characters-20261019-v1.json"
+    },
+    {
+      "kind": "characters",
       "version": "20261018-v1",
       "repository": "p10q/cairn-releases",
       "tag": "friend-characters-20261018-v1",
