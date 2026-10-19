@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "pluginId": "com.p10q.cairn.friend",
+  "releases": [
+    {
+      "kind": "characters",
+      "version": "20261018-v1",
+      "repository": "p10q/cairn-releases",
+      "tag": "friend-characters-20261018-v1",
+      "manifest": "characters-20261018-v1.json"
+    }
+  ]
+}
