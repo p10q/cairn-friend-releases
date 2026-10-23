@@ -1,0 +1,48 @@
+{
+  "version": "20261023-v1",
+  "license": "CC0-1.0",
+  "files": [
+    {
+      "name": "Maya",
+      "file": "maya.scn",
+      "bytes": 68671212,
+      "sha256": "1c76df78e236517bc3cfb49619bbfec83a579eecb85002d68a6c06f1cce27fdb"
+    },
+    {
+      "name": "Amara",
+      "file": "amara.scn",
+      "bytes": 74751621,
+      "sha256": "07c21763e30509bafd4505f205791a1651dbc84dd0c679d32dcb6644aa792850"
+    },
+    {
+      "name": "Nora",
+      "file": "nora.scn",
+      "bytes": 71851920,
+      "sha256": "b799d6bb0cd30fdb3bcfa6656a8a09afef0c2e6fcb2874b15bf62d1400173aaa"
+    },
+    {
+      "name": "Theo",
+      "file": "theo.scn",
+      "bytes": 63487493,
+      "sha256": "9bbcc5f498b03846158076e1ac356aefeb2e3f087891ec3d6ca2dcb93bd488f8"
+    },
+    {
+      "name": "Leo",
+      "file": "leo.scn",
+      "bytes": 70172094,
+      "sha256": "1266486482bf001df747210c0ee75f4c74e6b932f4828ece0f5cfbf6284cc101"
+    },
+    {
+      "name": "Kai",
+      "file": "kai.scn",
+      "bytes": 68518942,
+      "sha256": "e9a24e0528409fda4b44d6d73445e959601aca6c9e6065c1b05d5b5812d9b62c"
+    },
+    {
+      "name": "Jules",
+      "file": "jules.scn",
+      "bytes": 68907312,
+      "sha256": "6112b91cc0c0b20c029eb3caf4574aee57cd98a3535af15fa4e635d14264b5e0"
+    }
+  ]
+}
